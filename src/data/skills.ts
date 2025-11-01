@@ -8,70 +8,75 @@ export const skills = {
     {
       name: "CSS",
       icon: "/icons/css.png",
-      level: 85,
+      level: 75,
     },
     {
       name: "JavaScript",
       icon: "/icons/javascript.png",
-      level: 88,
+      level: 50,
     },
     {
       name: "Python",
       icon: "/icons/python.png",
-      level: 85,
+      level: 75,
     },
     {
       name: "Dart",
       icon: "/icons/dart.png",
-      level: 82,
+      level: 50,
     },
   ],
   frameworks: [
     {
       name: "ReactJS",
       icon: "/icons/react.png",
-      level: 88,
+      level: 50,
+    },
+    {
+      name: "NextJS",
+      icon: "/icons/nextjs.png",
+      level: 50,
     },
     {
       name: "Django",
       icon: "/icons/django.png",
-      level: 85,
+      level: 65,
     },
     {
       name: "Flutter",
       icon: "/icons/flutter.png",
-      level: 85,
+      level: 65,
     },
     {
       name: "Firebase",
       icon: "/icons/firebase.png",
-      level: 80,
+      level: 50,
     },
     {
       name: "SupaBase",
       icon: "/icons/supabase.png",
-      level: 80,
+      level: 50,
     },
     {
       name: "Tailwind CSS",
       icon: "/icons/tailwind.png",
-      level: 78,
+      level: 80,
     },
   ],
   tools: [
     {
       name: "Git",
       icon: "/icons/git.png",
-      level: 85,
+      level: 75,
     },
     {
       name: "GitHub",
       icon: "/icons/github.png",
-      level: 85,
+      level: 75,
     },
     {
       name: "VS Code",
-      icon: "/icons/vscode.svg",
+      icon: "/icons/vscode.png",
       level: 90,
     },
   ],
@@ -79,7 +84,7 @@ export const skills = {
     {
       name: "Pédagogie",
       icon: "🎓",
-      level: 95,
+      level: 80,
     },
     {
       name: "Communication",
@@ -92,7 +97,7 @@ export const skills = {
       level: 88,
     },
     {
-      name: "Esprit d'équipe",
+      name: "Travail en équipe",
       icon: "🤝",
       level: 92,
     },

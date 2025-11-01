@@ -8,18 +8,18 @@ export const projects = [
     category: "mobile",
     status: "En développement",
     link: "#",
-    image: "/assets/projects/survey.svg",
+    image: "/assets/projects/survey.png",
   },
   {
-    id: "infoscool",
-    title: "InfoScool",
+    id: "digitalchool",
+    title: "DigitalSchool",
     description:
       "Plateforme pour équiper les écoles de laboratoires informatiques en RDC.",
     techs: ["Django", "React"],
     category: "web",
     status: "Conception",
     link: "#",
-    image: "/assets/projects/infoscool.svg",
+    image: "/assets/projects/digitalschool.png",
   },
   {
     id: "portfolio",
@@ -30,17 +30,18 @@ export const projects = [
     category: "web",
     status: "Déployé",
     link: "#",
-    image: "/assets/projects/portfolio.svg",
+    image: "/assets/projects/tshibangu.png",
   },
+
   {
-    id: "mini-todo",
-    title: "TodoApp (mini-projet)",
+    id: "eternelmediat",
+    title: "Eternel Media",
     description:
-      "Clone TodoApp en React pour démontrer les bonnes pratiques et tests.",
-    techs: ["React", "Vite"],
+      "projet Eternel Media, un site portfolio pour une agence de médias, photographie et design.",
+    techs: ["React"],
     category: "web",
     status: "Open Source",
-    link: "#",
-    image: "/assets/projects/todo.svg",
+    link: "https://eternelmediat.vercel.app/",
+    image: "/assets/projects/eternelmedia.jpg",
   },
 ];
