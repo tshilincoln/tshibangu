@@ -5,7 +5,7 @@ import { projects } from "@/data/projects";
 import ProjectCard from "./ProjectCard";
 import { motion } from "framer-motion";
 
-const categories = ["all", "web", "mobile", "data"];
+const categories = ["all", "web", "mobile", "autre"];
 
 export default function Projects() {
   const [filter, setFilter] = useState<string>("all");

@@ -3,8 +3,8 @@ export const projects = [
     id: "survey",
     title: "Survey",
     description:
-      "Application de collecte de données (forms dynamiques, offline, sync Cloud)",
-    techs: ["Flutter", "Firebase", "Hive"],
+      "Application Mobile de collecte de données (forms dynamiques, offline, sync Cloud)",
+    techs: ["Flutter", "Hive", "SupaBase", "OpenIA"],
     category: "mobile",
     status: "En développement",
     link: "#",
@@ -15,8 +15,8 @@ export const projects = [
     title: "DigitalSchool",
     description:
       "Plateforme pour équiper les écoles de laboratoires informatiques en RDC.",
-    techs: ["Django", "React"],
-    category: "web",
+    techs: ["projet de développement communautaire"],
+    category: "autre",
     status: "Conception",
     link: "#",
     image: "/assets/projects/digitalschool.png",
