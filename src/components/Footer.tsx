@@ -37,7 +37,7 @@ export default function Footer() {
 
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com/tonprofil"
+            href="https://github.com/tshilincoln"
             target="_blank"
             rel="noreferrer"
             className="text-gray-600 dark:text-gray-300 hover:text-white"
@@ -52,7 +52,7 @@ export default function Footer() {
             </svg>
           </a>
           <a
-            href="https://linkedin.com/in/tshibanguabraham"
+            href="https://www.linkedin.com/in/abraham-tshibangu-92a5371a7"
             target="_blank"
             rel="noreferrer"
             className="text-gray-600 dark:text-gray-300 hover:text-white"
