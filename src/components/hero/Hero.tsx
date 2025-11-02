@@ -76,7 +76,7 @@ export default function Hero() {
           transition={{ delay: 0.9 }}
         >
           <a
-            href="https://github.com/tonprofil"
+            href="https://github.com/tshilincoln"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-white"
@@ -95,7 +95,7 @@ export default function Hero() {
             </svg>
           </a>
           <a
-            href="https://linkedin.com/in/tshibanguabraham"
+            href="https://www.linkedin.com/in/abraham-tshibangu-92a5371a7"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-white"

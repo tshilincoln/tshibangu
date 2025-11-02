@@ -67,7 +67,7 @@ export default function ProjectCard({
             href={`/projects/${project.id}`}
             className="text-blue-600 dark:text-blue-400 font-medium"
           >
-            Voir les détails
+            En savoir plus &rarr;
           </Link>
           <a
             href={project.link ?? "#"}
