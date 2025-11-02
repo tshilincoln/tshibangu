@@ -22,9 +22,9 @@ export const articles = [
     title: "InfoScool : l’initiative d’éducation numérique",
     date: "2024-06-02",
     excerpt:
-      "Présentation du projet InfoScool : équiper les écoles en laboratoires informatiques et contenus pédagogiques.",
+      "Présentation du projet digitalSchool : équiper les écoles en laboratoires informatiques et contenus pédagogiques.",
     content: `
-<p>InfoScool est un projet social visant à fournir des ressources et du matériel pour l'enseignement du numérique dans les écoles du Kasaï Oriental.</p>
+<p>digitalSchool est un projet social visant à fournir des ressources et du matériel pour l'enseignement du numérique dans les écoles du Kasaï Oriental.</p>
 <h3>Objectifs</h3>
 <ul>
 <li>Fournir des laboratoires informatiques</li>

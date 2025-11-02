@@ -64,11 +64,9 @@ export default function Menu() {
               {it.label}
             </Link>
           ))}
-          <ThemeToggle />
         </nav>
         {/* Mobile simple menu (could be extended) */}
         <div className="md:hidden flex items-center gap-2">
-          <ThemeToggle />
           <button className="px-3 py-2 rounded bg-gray-100 dark:bg-gray-800">
             Menu
           </button>

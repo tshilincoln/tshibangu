@@ -96,10 +96,10 @@ export default function About() {
             <ul className="space-y-3 text-gray-700 dark:text-gray-300 mb-6">
               <li>📚 Licence en Génie Informatique</li>
               <li>🌐 Formations en Django, Flutter, Python</li>
-              <li>🚀 Certifications en développement web moderne</li>
+              <li>🚀 Certifications en développement web </li>
             </ul>
             <a
-              href="/cv.pdf"
+              href="/document/cv_AbrahamTshibangu.pdf"
               download
               className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors"
             >
